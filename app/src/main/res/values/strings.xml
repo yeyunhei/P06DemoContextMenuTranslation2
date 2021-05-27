@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P06Demo Context Menu Translation 2</string>
+    <string name="hello">Hello</string>
+    <string name="bye">Bye</string>
+    <string name="eng">English</string>
+    <string name="ita">Italian</string>
+
+</resources>
